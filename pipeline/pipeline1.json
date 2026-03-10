@@ -44,7 +44,7 @@
 							{
 								"source": {
 									"name": "ProductID",
-									"type": "Decimal",
+									"type": "String",
 									"physicalType": "String"
 								},
 								"sink": {
@@ -72,6 +72,8 @@
 									"physicalType": "String"
 								},
 								"sink": {
+									"type": "String",
+									"physicalType": "String",
 									"ordinal": 3
 								}
 							}
