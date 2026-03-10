@@ -190,8 +190,7 @@
 									"physicalType": "String"
 								},
 								"sink": {
-									"name": "Category",
-									"type": "String",
+									"name": "Category1",
 									"physicalType": "String"
 								}
 							}
