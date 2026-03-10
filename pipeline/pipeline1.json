@@ -182,6 +182,18 @@
 									"type": "String",
 									"physicalType": "String"
 								}
+							},
+							{
+								"source": {
+									"name": "Category",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Category",
+									"type": "String",
+									"physicalType": "String"
+								}
 							}
 						],
 						"typeConversion": true,
