@@ -55,7 +55,7 @@
 							},
 							{
 								"source": {
-									"name": "ProductName",
+									"name": "Category",
 									"type": "String",
 									"physicalType": "String"
 								},
@@ -67,13 +67,11 @@
 							},
 							{
 								"source": {
-									"name": "Category",
+									"name": "ProductName",
 									"type": "String",
 									"physicalType": "String"
 								},
 								"sink": {
-									"type": "String",
-									"physicalType": "String",
 									"ordinal": 3
 								}
 							}
