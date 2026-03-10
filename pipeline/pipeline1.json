@@ -76,16 +76,6 @@
 									"physicalType": "String",
 									"ordinal": 3
 								}
-							},
-							{
-								"source": {
-									"name": "Category",
-									"type": "String",
-									"physicalType": "String"
-								},
-								"sink": {
-									"ordinal": 4
-								}
 							}
 						],
 						"typeConversion": true,
