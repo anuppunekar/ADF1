@@ -55,7 +55,7 @@
 							},
 							{
 								"source": {
-									"name": "ProductName",
+									"name": "Category",
 									"type": "String",
 									"physicalType": "String"
 								},
@@ -67,7 +67,7 @@
 							},
 							{
 								"source": {
-									"name": "Category",
+									"name": "ProductName",
 									"type": "String",
 									"physicalType": "String"
 								},
