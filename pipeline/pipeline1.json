@@ -172,17 +172,6 @@
 									"type": "String",
 									"physicalType": "String"
 								}
-							},
-							{
-								"source": {
-									"name": "Category",
-									"type": "String",
-									"physicalType": "String"
-								},
-								"sink": {
-									"name": "Category1",
-									"physicalType": "String"
-								}
 							}
 						],
 						"typeConversion": true,
